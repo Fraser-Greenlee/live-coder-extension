@@ -1,7 +1,3 @@
-# live-coder-server
+# live-coder-extension
 
-Runs Python scripts when given a virtual enviroment.
-
-Returns all of the scripts variable changes rendered as HTML.
-
-Can be viewed using the live-coder extension.
+A VSCode extension that shows how your python code's state changes as you type.
